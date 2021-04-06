@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Boshoku_python/.idea/Boshoku_python.iml" filepath="$PROJECT_DIR$/../Boshoku_python/.idea/Boshoku_python.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/bosh_python.iml" filepath="$PROJECT_DIR$/.idea/bosh_python.iml" />
     </modules>
   </component>
