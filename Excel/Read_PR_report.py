@@ -17,7 +17,7 @@ print(sheet.title)
 production = sheet['F6'].value
 print(production)
 
-print('Введите месяц, за который хотите узнать количество произведенных сетов.')
+print('Какие данные требуется перенести в Month report из PD report?')
 print('Ввод осуществлять в формате: март')
 month = str(input())
 
@@ -77,4 +77,4 @@ def choose_date(month=month):
 #             return print('Нет такого месяца')
 
 choose_date(month=month)
-print('Какие данные требуется перенести в Month report из PD report?')
+
