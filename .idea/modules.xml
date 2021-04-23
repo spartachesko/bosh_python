@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/bosh_python.iml" filepath="$PROJECT_DIR$/.idea/bosh_python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../start_python/lesson_005/.idea/lesson_005.iml" filepath="$PROJECT_DIR$/../start_python/lesson_005/.idea/lesson_005.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../start_python/lesson_006/.idea/lesson_006.iml" filepath="$PROJECT_DIR$/../start_python/lesson_006/.idea/lesson_006.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../start_python/lesson_007/.idea/lesson_007.iml" filepath="$PROJECT_DIR$/../start_python/lesson_007/.idea/lesson_007.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../start_python/lesson_008/.idea/lesson_008.iml" filepath="$PROJECT_DIR$/../start_python/lesson_008/.idea/lesson_008.iml" />
       <module fileurl="file://$PROJECT_DIR$/../start_python/lesson_009/.idea/lesson_009.iml" filepath="$PROJECT_DIR$/../start_python/lesson_009/.idea/lesson_009.iml" />
     </modules>
   </component>

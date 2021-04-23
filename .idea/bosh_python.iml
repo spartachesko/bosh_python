@@ -4,6 +4,10 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.9" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="lesson_005" />
+    <orderEntry type="module" module-name="lesson_006" />
+    <orderEntry type="module" module-name="lesson_007" />
+    <orderEntry type="module" module-name="lesson_008" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="format" value="PLAIN" />

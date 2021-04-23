@@ -1,6 +1,6 @@
 import openpyxl
 import os
-
+import write_to_moth_report
 # target_path = 'C:/Users/borisov/PycharmProjects/bosh_python/Excel/automate_online-materials/censuspopdata.xlsx'
 target_path = 'Q:/COMMON DOCS/1st PRODUCTION SECTION/0.Daily monitoring (Ежедневный контроль)/Sewing 2021/' \
               'Март  2021.xlsx'
@@ -77,3 +77,4 @@ def choose_date(month=month):
 #             return print('Нет такого месяца')
 
 choose_date(month=month)
+print('Какие данные требуется перенести в Month report из PD report?')
