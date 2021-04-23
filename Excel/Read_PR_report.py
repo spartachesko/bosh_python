@@ -77,4 +77,3 @@ def choose_date(month=month):
 #             return print('Нет такого месяца')
 
 choose_date(month=month)
-sheet_report = report.sheetnames
