@@ -18,12 +18,12 @@ production = sheet['F6'].value
 print(production)
 
 print('Введите месяц, за который хотите узнать количество произведенных сетов.')
-print('Ввод осуществлять в формате: мар.21')
+print('Ввод осуществлять в формате: март')
 month = str(input())
 
 
 def choose_date(month=month):
-    result = None
+    result = 0
     if month == 'январь':
         result = sheet.cell(row=6, column=4).value
         return print(result, ' сетов')
